@@ -1,7 +1,7 @@
 ---
 layout: post
-title:      "**Why I chose coding... or did it choose me?**"
-date:       2018-10-28 16:52:59 +0000
+title:      "Why I chose coding... or did it choose me?"
+date:       2018-10-28 12:53:00 -0400
 permalink:  why_i_chose_coding_or_did_it_choose_me
 ---
 
