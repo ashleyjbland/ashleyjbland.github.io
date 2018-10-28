@@ -1,11 +1,11 @@
 # Site settings
-author: Ashley Bland
-title: 
+author: Ashley J. Bland
+title: Learning to Code
 header-img: img/home-bg.png
 email: ashleyjbland@gmail.com
-copyright_name: Ashley Bland
+copyright_name: Ashley J. Bland
 description: > # this means to ignore newlines until "baseurl:"
-  
+  One day at a time.
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  ashleyjbland
